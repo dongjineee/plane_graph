@@ -1,0 +1,3 @@
+nav_msgs/Odometry pose_odom
+
+sensor_msgs/PointCloud2 pose_point_clouds
