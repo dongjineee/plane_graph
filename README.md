@@ -41,15 +41,16 @@ rosrun qp_slam backend_node # backend node
 <p align = "center">
 <img src="https://github.com/dongjineee/plane_graph_slam/assets/150753899/b6a62d81-8663-44c2-a3c8-ffb766dc2646" width="700" height="400"/>
 </p>
-```
+
+```bash
 red_points : noise points 
 green_points : gt points
 yellow_points : optimize points
-```
+
 
 ## Project Tree
 
-```
+```bash
 plane_graph_slam
 ├─ .gitignore
 ├─ CMakeLists.txt
@@ -69,4 +70,4 @@ plane_graph_slam
    ├─ backend.cpp
    ├─ front_plane.cpp
    └─ keyframe.cpp
-```
+
