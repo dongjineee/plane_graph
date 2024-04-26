@@ -43,7 +43,10 @@ rosrun qp_slam backend_node # backend node
 </p>
 
 
-red_points : noise points green_points : gt points yellow_points : optimize points
+- Red points: Noise points
+- Green points: Ground truth points
+- Yellow points: Optimized points
+
 
 
 ## Project Tree
