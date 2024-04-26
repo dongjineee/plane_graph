@@ -1,8 +1,8 @@
 ## Features
 
-- **Plane Extraction:** Extract plane features from sensor data.
-- **Graph Representation:** Represent the environment as a graph.
-- **Graph Optimization:** Optimize the graph to estimate robot trajectory and map.
+- **Plane Extraction:** using ransac
+- **Graph Representation:** pose & plane graph
+- **Graph Optimization:** LM optimize using GTSAM
 - **Visualization:** Visualize the resulting trajectory and map.
 
 ## Installation
