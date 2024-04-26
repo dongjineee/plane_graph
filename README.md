@@ -1,6 +1,7 @@
 ## Project Tree
 
 ```
+plane_graph_slam
 ├─ .gitignore
 ├─ CMakeLists.txt
 ├─ README.md
