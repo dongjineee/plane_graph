@@ -1,10 +1,27 @@
 
-### 0. Setting
-```
+# Plane Graph SLAM
+
+This repository contains the code for the Plane Graph SLAM project using ROS and Gazebo.
+
+## Setup
+
+To get started, clone the repository and build the project using the following commands:
+
+```bash
 git clone https://github.com/dongjineee/plane_graph_slam.git
-cd your_workspaces/plane_graph_slam
+cd plane_graph_slam
 catkin_make
-```
+
+
+## Setting
+
+To get started, clone the repository and build the project using the following commands:
+
+```bash
+git clone https://github.com/dongjineee/plane_graph_slam.git
+cd plane_graph_slam
+catkin_make
+
 ### 1. RUN
 ```
 rosrun qp_slam keyframe_node # keyframe node
@@ -53,7 +70,3 @@ plane_graph_slam
    ├─ front_plane.cpp
    └─ keyframe.cpp
 ```
-
-```bash
-python main.py --input sample_data --output results
-
