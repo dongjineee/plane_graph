@@ -1,7 +1,7 @@
 
-# Plane Graph SLAM
+# Plane Graph
 
-This repository contains the code for the Plane Graph SLAM project using ROS and Gazebo.
+This repository contains the code for the Plane Graph optimize project using ROS and Gazebo.
 
 ## Setup
 
