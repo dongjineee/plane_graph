@@ -7,7 +7,7 @@ This repository contains the code for the Plane Graph SLAM project using ROS and
 
 To get started, clone the repository and build the project using the following commands:
 
-```bash
+```
 git clone https://github.com/dongjineee/plane_graph_slam.git
 cd plane_graph_slam
 catkin_make
@@ -21,7 +21,7 @@ To get started, clone the repository and build the project using the following c
 git clone https://github.com/dongjineee/plane_graph_slam.git
 cd plane_graph_slam
 catkin_make
-
+```
 ## 1. RUN
 ```bash
 rosrun qp_slam keyframe_node # keyframe node
