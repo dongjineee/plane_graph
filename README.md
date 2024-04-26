@@ -19,10 +19,10 @@ rosrun qp_slam backend_node # backend node
 
 ### 3. example result
 <p align = "center">
-<img src="[https://github.com/dongjineee/plane_graph_slam/assets/150753899/336be401-1f1b-4710-b7a3-208b1bf3f76e)" width="700" height="400"/>
+<img src="https://github.com/dongjineee/plane_graph_slam/assets/150753899/336be401-1f1b-4710-b7a3-208b1bf3f76e" width="700" height="400"/>
 </p>
 <p align = "center">
-<img src="[https://github.com/dongjineee/plane_graph_slam/assets/150753899/b6a62d81-8663-44c2-a3c8-ffb766dc2646)" width="700" height="400"/>
+<img src="https://github.com/dongjineee/plane_graph_slam/assets/150753899/b6a62d81-8663-44c2-a3c8-ffb766dc2646" width="700" height="400"/>
 </p>
 ```
 red_points : noise points 
